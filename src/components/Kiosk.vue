@@ -4,7 +4,7 @@
       <div class=" flex md:w-3/4 md:mx-auto">
         <div class="w-1/3">
           <img
-            src="../assets/pureCHIRO Notes - Logo.png"
+            src="../assets/pureCHIRONotesLogo.png"
             height="200px"
             width="200px"
             class="mx-auto object-fit"
